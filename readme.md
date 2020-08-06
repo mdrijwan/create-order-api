@@ -53,13 +53,6 @@ Start the database
 ```
 sudo service mongod start
 ```
->Notes on MongoDB:
-- To verify that MongoDB has started successfully
-Verify that the mongod process has started successfully by checking the contents of the log file at `/var/log/mongodb/mongod.log` for a line reading
-```
-[initandlisten] waiting for connections on port <port>
-where <port> is the port configured in /etc/mongod.conf, 27017 by default.
-```
 
 - To see collections of data
   + Type `mongo`
