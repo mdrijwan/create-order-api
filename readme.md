@@ -51,7 +51,7 @@ npm run start
 Start the database
 
 ```
-sudo service mongod start
+brew services run mongodb-community
 ```
 
 - To see collections of data
