@@ -1,5 +1,5 @@
 # Create Order Api
-A sample app that implements an ordering system to expose a Restful API to help AirAsia.com to receive a hotel booking details and insert the details in the database.
+A sample app that implements an ordering system to expose a Restful API to help a Hotel Business to receive a hotel booking details and insert the details in the database.
 
 **Tasks**
 
